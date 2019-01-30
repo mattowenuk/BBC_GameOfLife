@@ -40,4 +40,4 @@ This class contains code to recycle the views as the grid is scrolled by the use
 ProcessCellTask.java and ProcessAlgorithmTask.java – 
 These classes are used to call the data processing methods in the ‘Algorithm’ class on a background thread. An Interface is used to call a method within the Activity upon task completion. This is done so these classes can potentially be re-used by other Activities and avoid memory leakage.
 
-
+The screenshots provided show the app in both 3x3 and 12x12 grids, with a default and random start respectively. Subsequent evolutions of the grids are shown.
