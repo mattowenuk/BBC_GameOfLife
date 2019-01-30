@@ -5,14 +5,14 @@ Matt Owen
 
 The ‘Game of Life’ game was coded in Java and XML within android studio, creating an application that provides an easy and clear display of the grid, and allows user interaction to adjust the grid size, the state of the cells and perform the ‘evolution’. The files added to the provided template are:
 
-Algorithm.java  
-Cell.java
-MainActivity.java 
-GridItemAdapter.java
-ProcessCellTask.java 
-ProcessAlgorithmTask.java 
-activity_main.xml
-item_cell.xml
+Algorithm.java,   
+Cell.java, 
+MainActivity.java,  
+GridItemAdapter.java, 
+ProcessCellTask.java,  
+ProcessAlgorithmTask.java,  
+activity_main.xml, 
+item_cell.xml.
 
 The Algorithm.java contains the data processing, the other files contain the code for the look of the UI elements, their interaction and the handling of background threads. The file notes for each are detailed below along with the design considerations.
 
