@@ -54,6 +54,7 @@
         app:layout_constraintBottom_toTopOf="@+id/evolveButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/widthTextView" />
+    
     <Button
         android:id="@+id/evolveButton"
         android:layout_width="wrap_content"
